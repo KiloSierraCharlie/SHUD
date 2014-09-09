@@ -19,7 +19,7 @@ if tonumber(SHUD.CurrentBuild) < tonumber(SHUD.LatestBuild) then
   MsgN('')
   MsgN('SHUD is out of date!')
   MsgN('Local build: ' .. SHUD.CurrentBuild .. ', Latest build: ' .. SHUD.LatestBuild .. '')
-  MsgN('Download the latest version from https://github.com/samahl9709/SHUD/archive/master.zip')
+  MsgN('Download the latest version from https://github.com/SDHAScripts/SHUD/archive/master.zip')
   MsgN('')
 
 SHUD.BuildOutdated = true
@@ -34,7 +34,7 @@ function CheckVersion()
   SHUD.CurrentBuild = SHUD.Build
 
 	MsgN('SHUD is loading version checker. Please wait...')
-	local url = 'https://raw.github.com/samahl9709/shud/master/build.txt'
+	local url = 'https://raw.github.com/SDHAScripts/shud/master/build.txt'
 	http.Fetch( url,
 		function( content )
 			SHUD.LatestBuild = tostring( content ) or "Error"
