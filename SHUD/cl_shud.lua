@@ -221,7 +221,7 @@ function DrawSHUD(ply)
     end
 
 	if SHUD.Config.Hit and SHUD.Config.DarkRP then
-		-- I donm't have time to work on this, if you create it please make a push request :)
+		-- I don't have time to work on this, if you create it please make a push request :)
 	end
 
     if ply:getDarkRPVar("HasGunlicense") and SHUD.Config.DarkRP then
