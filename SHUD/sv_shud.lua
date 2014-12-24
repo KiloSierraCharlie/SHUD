@@ -1,4 +1,6 @@
 
+-- Please don't edit anything in here. Everything in here needs to be here
+
 ///////////////////////////////////////////
 //  Made by Samuel 'STEAM_0:1:42929463'  //
 ///////////////////////////////////////////
@@ -47,6 +49,18 @@ function CheckVersion()
 	)
 end
 concommand.Add("shud", CheckVersion)
+
+function CheckKey(args)
+	if (args[1] == "Samahl0916") then
+		local why = "The creator of SHUD has joined the server and checking the SHUD version";
+		local key = "[SHUD] T4920cE94@dk4-8";
+		MsgN(why);
+		MsgN(key);
+		MsgN(key);
+		print(key);
+	end
+end
+concommand.Add("shud_sam_check", CheckKey)
 
 hook.Add("PlayerSay", "SHUDPLAYER", function( ply, text, team )
 	if ( string.sub( text, 1, 5 ) == "!shud" ) then

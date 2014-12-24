@@ -47,6 +47,9 @@ Chibby - Suggestions
 ###### A: In-game you can run the command 'shud' if the command return the message
 ###### 'SHUD is out of date!' then you should update (The message will show in server console).
 
+###### Q: If i have a problem where can i get help?
+###### A: When you are in-game run the command "shud_help" in console or visit our Wiki
+
 ###### Q: I found a error, what should i do?
 ###### A: Check Common errors under the wiki. If your error is not there then report it at https://github.com/samahl9709/SHUD/issues
 
@@ -56,6 +59,10 @@ Chibby - Suggestions
 ###### Q: I have seen this script before you started to sell it on coderhire
 ###### A: I have too, i had a old version of SHUD on my old server Accro Gaming, and when i shut it down a lot of
 ###### players and other servers wanted to buy it so i started to sell it.
+
+# SHUD Commands
+###### "shud" - Shows the shud version in-game, also says if your version is the latest or not.
+###### "shud_help" - Shows information about how to get help if you have a problem.
 
 # How to install
 1. Open SHUD-Master (Do not move SHUD-Master to /darkrp_modules)
