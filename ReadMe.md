@@ -9,7 +9,7 @@
 ##### This version only supports the latest DarkRP version. Find it at https://github.com/FPtje/DarkRP
 
 
-##### Read the changelogs here https://github.com/samahl9709/SHUD/blob/master/Changelog.md
+##### Read the changelogs here https://github.com/SDHAScripts/SHUD/blob/master/Changelog.md
 #Donations
 Send the selected amount to my paypal samueldeanhansahlstrom@gmail.com
 
@@ -24,10 +24,10 @@ Email: samueldeanhansahlstrom@gmail.com
 Steam: http://steamcommunity.com/id/samueldha
 
 # Wiki
-If you need any help or have any problems check the wiki before contacting me https://github.com/samahl9709/SHUD/wiki
+If you need any help or have any problems check the wiki before contacting me https://github.com/SDHAScripts/SHUD/wiki
 
 # Errors
-Report all errors at https://github.com/samahl9709/SHUD/issues
+Report all errors at https://github.com/SDHAScripts/SHUD/issues
 
 # Updates
 I will try to update when i have time. Feel free to send any updates to me!
@@ -71,10 +71,3 @@ Chibby - Suggestions
 3. Edit the following configs as you want them.
 4. Restart your server.
 5. Look for errors and report them at https://github.com/samahl9709/SHUD/issues
-
-Wan't to remove the darkrp hud over head? Press here https://github.com/samahl9709/SHUD/wiki/Remove-DarkRP-Hud
-
-# Upcomming Update 8.6
-- Support for more gamemodes
-- In-Game menu for Workshop version
-- Settings for custom box (For levels etc..)
