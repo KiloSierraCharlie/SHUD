@@ -34,7 +34,7 @@ SHUD.Config.Addon.GangSize      = "medium"              -- Text size (small/medi
 SHUD.Config.Addon.Showorg       = false                 -- Show org name (Organisations Addon for DarkRP)
 SHUD.Config.Addon.OrgSize       = "medium"              -- Text size (small/medium/large)
 
-// Configs for SHUD DLC's
+// Configs for SHUD DLCs
 SHUD.Config.DLC.Tag             = false                 -- Custom tag (SHUD Tag System)
 
 // Colors (Do not change the last ',180'...)
