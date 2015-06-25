@@ -1,6 +1,6 @@
 <p align="center"> <img src="http://i.imgur.com/dGJesJY.png" />
-
-# Version M-9
+<br>
+<h1> Version M-9 </h1>
 </p>
 #### The original author decided to force people to signup on their website to download this script. So I've forked it and am keeping it up to date myself.
 
