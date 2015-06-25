@@ -1,7 +1,7 @@
-![](http://i.imgur.com/dGJesJY.png)
+<p align="center"> ![](http://i.imgur.com/dGJesJY.png)
 
-# Version M9
-
+# Version M-9
+</p>
 #### The original author decided to force people to signup on their website to download this script. So I've forked it and am keeping it up to date myself.
 
 ##### This addon requires DarkRP and the DarkRP Modification addon. You can find them on Falco's GitHub https://github.com/FPtje
