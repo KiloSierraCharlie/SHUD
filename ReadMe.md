@@ -1,4 +1,4 @@
-<p align="center"> ![](http://i.imgur.com/dGJesJY.png)
+<p align="center"> <img src="http://i.imgur.com/dGJesJY.png" />
 
 # Version M-9
 </p>
